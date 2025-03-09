@@ -2,7 +2,7 @@
 
 # 📸 Kamera Pro – Tangkap, Edit, Bagikan!  
 
-Aplikasi Flutter inovatif yang memungkinkan kamu mengambil gambar langsung dari kamera, menerapkan filter menarik, dan menyimpannya dengan mudah. **Kompatibel dengan Android, iOS, dan Web!**  
+Aplikasi Flutter inovatif yang memungkinkan kamu mengambil gambar langsung dari kamera, menerapkan filter menarik, dan menyimpannya dengan mudah. **Kompatibel dengan Android.**  
 
 ---
 
