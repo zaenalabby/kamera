@@ -8,11 +8,6 @@ Aplikasi Flutter inovatif yang memungkinkan kamu mengambil gambar langsung dari 
 
 ## ✨ Fitur Utama  
 🚀 **Ambil Foto Instan** langsung dari kamera perangkat  
-🔍 **Pratinjau Hasil Foto** sebelum menyimpan  
-🎨 **Filter Kreatif** untuk mempercantik gambar  
-📤 **Bagikan Seketika** ke media sosial dengan satu klik  
-🔄 **Dukungan Kamera Depan & Belakang**  
-⏳ **Loading Indikator** untuk pengalaman lebih mulus  
 ⚠️ **Error Handling** otomatis jika kamera gagal diinisialisasi  
 
 ---
